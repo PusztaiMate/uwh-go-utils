@@ -1,0 +1,8 @@
+.vscode/
+!.vscode/tasks.json
+
+combinations
+main
+
+output.json
+team_input.json
